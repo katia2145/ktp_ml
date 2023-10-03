@@ -21,4 +21,5 @@ homeworks -- содержит папки с домашними заданиям�
 
 ## Записи лекций
 
-https://www.youtube.com/playlist?list=PLokCG_OnjY6pcVF9HpHfB6cyH67Vl8YH_
+https://www.youtube.com/playlist?list=PLokCG_OnjY6pcVF9HpHfB6cyH67Vl8YH_ 
+
